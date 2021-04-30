@@ -7,9 +7,9 @@ with a UI design provided by them.
 
 
 # Screenshoots
-<img src="/screenshoots/1.jpeg" height="400px"/>
-<img src="/screenshoots/3.jpeg" height="400px"/>
-<img src="/screenshoots/4.jpeg" height="400px"/>
+<img src="/1.jpeg" height="400px"/>
+<img src="/3.jpeg" height="400px"/>
+<img src="/4.jpeg" height="400px"/>
 
 # Technologies Used
   - Java
